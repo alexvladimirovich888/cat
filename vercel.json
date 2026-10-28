@@ -1,0 +1,6 @@
+   {
+     "rewrites": [
+       { "source": "/category/artificial-intelligence/artificial-intelligence/Hugging-Face’s-AI robot-duck-seriously-injured-a-family-cat-days-after-it-shipped", "destination": "/index.html" },
+       { "source": "/category/artificial-intelligence/artificial-intelligence/Hugging-Face’s-AI robot-duck-seriously-injured-a-family-cat-days-after-it-shipped/", "destination": "/index.html" }
+     ]
+   }
